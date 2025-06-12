@@ -2657,7 +2657,7 @@ background-color:   var(--main-color);
 .loading-text {
     color: var(--main-color);
     font-size: 18px;
-    font-family: monospace;
+    font-family: 'Orbitron', sans-serif;
     margin-top: 20px;
     letter-spacing: 2px;
     white-space: nowrap;
