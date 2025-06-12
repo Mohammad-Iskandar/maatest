@@ -68,6 +68,13 @@ body
     background-color:#5562701a;
     overflow-x: hidden;
 }
+
+.roboto-slab-<uniquifier> {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 /* start dark mode  */
 .dark-mode {
     background-color: black;
@@ -2657,7 +2664,7 @@ background-color:   var(--main-color);
 .loading-text {
     color: var(--main-color);
     font-size: 18px;
-    font-family: 'Orbitron', sans-serif;
+    font-family: "Roboto Slab", serif;
     margin-top: 20px;
     letter-spacing: 2px;
     white-space: nowrap;
